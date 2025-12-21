@@ -1,0 +1,9 @@
+# Игнорировать
+
+.ipynb_checkpoints/
+Include/
+Lib/
+Scripts/
+share/
+.env
+pyvenv.cfg
